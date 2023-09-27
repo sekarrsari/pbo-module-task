@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Tugas Modul Praktikum\Tugas Modul Praktikum\bin\Debug\net6.0\Tugas Modul Praktikum.exe
+C:\Users\ASUS\source\repos\Tugas Modul Praktikum\Tugas Modul Praktikum\bin\Debug\net6.0\Tugas Modul Praktikum.deps.json
+C:\Users\ASUS\source\repos\Tugas Modul Praktikum\Tugas Modul Praktikum\bin\Debug\net6.0\Tugas Modul Praktikum.runtimeconfig.json
+C:\Users\ASUS\source\repos\Tugas Modul Praktikum\Tugas Modul Praktikum\bin\Debug\net6.0\Tugas Modul Praktikum.dll
+C:\Users\ASUS\source\repos\Tugas Modul Praktikum\Tugas Modul Praktikum\bin\Debug\net6.0\Tugas Modul Praktikum.pdb
+C:\Users\ASUS\source\repos\Tugas Modul Praktikum\Tugas Modul Praktikum\obj\Debug\net6.0\Tugas Modul Praktikum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Tugas Modul Praktikum\Tugas Modul Praktikum\obj\Debug\net6.0\Tugas Modul Praktikum.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Tugas Modul Praktikum\Tugas Modul Praktikum\obj\Debug\net6.0\Tugas Modul Praktikum.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Tugas Modul Praktikum\Tugas Modul Praktikum\obj\Debug\net6.0\Tugas Modul Praktikum.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Tugas Modul Praktikum\Tugas Modul Praktikum\obj\Debug\net6.0\Tugas Modul Praktikum.dll
+C:\Users\ASUS\source\repos\Tugas Modul Praktikum\Tugas Modul Praktikum\obj\Debug\net6.0\refint\Tugas Modul Praktikum.dll
+C:\Users\ASUS\source\repos\Tugas Modul Praktikum\Tugas Modul Praktikum\obj\Debug\net6.0\Tugas Modul Praktikum.pdb
+C:\Users\ASUS\source\repos\Tugas Modul Praktikum\Tugas Modul Praktikum\obj\Debug\net6.0\Tugas Modul Praktikum.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Tugas Modul Praktikum\Tugas Modul Praktikum\obj\Debug\net6.0\ref\Tugas Modul Praktikum.dll
